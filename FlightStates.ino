@@ -82,9 +82,9 @@ void LaunchReady() {
 void Boost() {
 	// TODO: Acquire orientation data
 	
-	// TODO: PID servo positions
+	// TODO: PID linear actuator positions
 	
-	// TODO: Move Servos
+	// TODO: Move H-bridge
 	
 	// TODO: Log data to SD IO
 	
